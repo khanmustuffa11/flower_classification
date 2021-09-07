@@ -6,4 +6,4 @@ For further requiremnts list, you can check the reuirement file in the repo.
 
 To know more about project, go through notebook given in the repo. 
 
-You can launch the app here [https://lnkd.in/eaaapBzJ]
+You can launch the app here [https://mybinder.org/v2/gh/khanmustuffa11/flower_classifier/24036310e160fd04fd05417d90ecf1643e77ca85]
