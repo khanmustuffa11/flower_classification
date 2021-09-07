@@ -1,2 +1,3 @@
-# flower_Classifier
-Classification of 104 flower classes.
+# Flower Classifier
+
+You can launch the app here: https://lnkd.in/eaaapBzJ
