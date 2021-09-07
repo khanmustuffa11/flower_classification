@@ -1,6 +1,6 @@
 # Flower Classifier
 
-The aim is predict the name of flower with probability. 
+The aim is to predict the name of flower with some probability. 
 
 Frame work used is fastai.
 
